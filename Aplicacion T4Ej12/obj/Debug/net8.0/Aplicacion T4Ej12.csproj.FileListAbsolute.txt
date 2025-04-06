@@ -1,0 +1,21 @@
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\bin\Debug\net8.0\Aplicacion T4Ej12.exe
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\bin\Debug\net8.0\Aplicacion T4Ej12.deps.json
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\bin\Debug\net8.0\Aplicacion T4Ej12.runtimeconfig.json
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\bin\Debug\net8.0\Aplicacion T4Ej12.dll
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\bin\Debug\net8.0\Aplicacion T4Ej12.pdb
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\bin\Debug\net8.0\Automotores.dll
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\bin\Debug\net8.0\Figuras.dll
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\bin\Debug\net8.0\Automotores.pdb
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\bin\Debug\net8.0\Figuras.pdb
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\Aplicacion T4Ej12.csproj.AssemblyReference.cache
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\Aplicacion T4Ej12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\Aplicacion T4Ej12.AssemblyInfoInputs.cache
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\Aplicacion T4Ej12.AssemblyInfo.cs
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\Aplicacion T4Ej12.csproj.CoreCompileInputs.cache
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\Aplicacion T4Ej12.sourcelink.json
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\Aplicaci.4DBF8F9C.Up2Date
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\Aplicacion T4Ej12.dll
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\refint\Aplicacion T4Ej12.dll
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\Aplicacion T4Ej12.pdb
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\Aplicacion T4Ej12.genruntimeconfig.cache
+C:\Users\pablo\proyectosDonet\Aplicacion T4Ej12\Aplicacion T4Ej12\obj\Debug\net8.0\ref\Aplicacion T4Ej12.dll

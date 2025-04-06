@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aplicacion T4Ej12/1.0.0": {
+        "dependencies": {
+          "Automotores": "1.0.0",
+          "Figuras": "1.0.0"
+        },
+        "runtime": {
+          "Aplicacion T4Ej12.dll": {}
+        }
+      },
+      "Automotores/1.0.0": {
+        "runtime": {
+          "Automotores.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Figuras/1.0.0": {
+        "runtime": {
+          "Figuras.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicacion T4Ej12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Automotores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Figuras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -35,6 +35,9 @@ foreach (Auto a in listaAutos)
  Console.WriteLine(a.GetDescripcion());
 }
 
+Console.WriteLine("Presione una tecla para finalizar");
+Console.ReadKey(true);
+
 /*
 Crear una solución con tres proyectos: una biblioteca de clases llamada Automotores, una 
 biblioteca de clases llamada Figuras y una aplicación de consola llamada Aplicacion. La biblioteca 
