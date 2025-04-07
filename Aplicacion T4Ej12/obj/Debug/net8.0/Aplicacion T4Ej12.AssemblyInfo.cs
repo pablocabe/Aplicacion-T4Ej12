@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aplicacion T4Ej12")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d438b5ac5a09df0d17e3793df9864b62ac4cc280")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e58bda387426fef0ff31e1a1bb141a056453fe58")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aplicacion T4Ej12")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aplicacion T4Ej12")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
